@@ -4,14 +4,18 @@ In diesem Dokument wird ein ganzer Prozess vorgestellt, der schliesslich zu eine
 ## Ausgangslage
 Lerndoku brauchen wir, um gelernte Theorie zu dokumentieren, schnell wieder zu finden und immer wieder sicher und ohne grossen Zeitverlust anwenden zu können. Dabei muss die Lerndokumentation der Quelle der Theorie angepasst werden.
 
-## Protokoll
-Wichtig für die Lerndoku ist ein Protokoll, damit wir belegen können, was wir wann bearbeitet und gelernt haben
+## Wichtige Dokumente
+### Glossar
+Hier werden alle fachspezifischen Begriffe erklärt.
 
-## Index
-Wichtig für die Lerndoku ist ein Index, damit wir Rezepte, die wir benötigen, rasch wieder finden.
+### Index
+Wir brauchen einen Index, damit wir Rezepte, die wir benötigen, rasch wieder finden.
 
-## Glossar
-Auch ein Glossar ist wichtig. Hier werden alle fachspezifischen Begriffe erklärt.
+### Namespaces
+Eine Liste aller Namespaces, für die Übersicht. Sonst passiert es leicht, dass wir für ein und denselben Namespace verschiedene Namen haben.
+
+### Protokoll
+Wir brauchen ein Protokoll, damit wir belegen können, was wir wann bearbeitet und gelernt haben
 
 ## Lerndoku für PDFs
 Am optimalsten ist es, wenn die Theorie als PDF vorliegt, weil
