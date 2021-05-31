@@ -15,7 +15,16 @@ Wir brauchen einen Index, damit wir Rezepte, die wir benötigen, rasch wieder fi
 Eine Liste aller Namespaces, für die Übersicht. Sonst passiert es leicht, dass wir für ein und denselben Namespace verschiedene Namen haben.
 
 ### Protokoll
-Wir brauchen ein Protokoll, damit wir belegen können, was wir wann bearbeitet und gelernt haben
+Wir brauchen ein Protokoll, damit wir belegen können, was wir wann bearbeitet und gelernt haben.
+
+### Artefakte
+Eine Liste aller Artefakte, die geschaffen wurden.
+
+### Installationen
+Eine Lsite aller Produktio, die installiert wurden.
+
+### Backlog
+Eine Liste von Todos, die noch gemacht werden müssen.
 
 ## Lerndoku für PDFs
 Am optimalsten ist es, wenn die Theorie als PDF vorliegt, weil

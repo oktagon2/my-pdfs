@@ -1,7 +1,7 @@
 # VS Code Rezepte
 ## Mit GitHub synchronisieren
 * Ctrl + Shift + G
-* "Normal Commit" eingeben und Ctrl + Enter drücken, um die Änderungen einzuchecken
+* "Normal Commit" eingeben und Ctrl + Enter drücken, um die Änderungen einzuchecken. Einfache Merges macht GitHub dabei automatisch! 
 * F1 drücken und "Sync" eingeben und "Git: Sync" wählen 
 ## Text suchen
 * Ctrl + Shift + F
