@@ -1,7 +1,7 @@
 # Acrobat Reader Rezepte
 ## Dokument bearbeiten
-* siehe "Textfeld bearbeiten" weiter unten
-* das dort beschriebene Prinzip lässt sich auf alle Bearbeitungsfunktionen, welche in der Symbolleiste "Kommentieren" als Symbole angeboten werden, übertragen
+* siehe "Textfeld hinzufügen" und dann auch "Textfeld bearbeiten" weiter unten
+* die dort beschriebenen Prinzipien lassen sich auf alle Bearbeitungsfunktionen, welche in der Symbolleiste "Kommentieren" als Symbole angeboten werden, übertragen
 
 ## Textfeld bearbeiten
 * Ins Textfeld doppelklicken
