@@ -1,5 +1,5 @@
 # Acrobat Reader Rezepte
-# Dokument bearbeiten
+## Dokument bearbeiten
 * siehe "Textfeld bearbeiten" weiter unten
 * das dort beschriebene Prinzip lässt sich auf alle Bearbeitungsfunktionen, welche in der Symbolleiste "Kommentieren" als Symbole angeboten werden, übertragen
 
