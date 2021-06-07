@@ -4,12 +4,22 @@ In diesem Dokument wird ein ganzer Prozess vorgestellt, der schliesslich zu eine
 ## Ausgangslage
 Lerndoku brauchen wir, um gelernte Theorie zu dokumentieren, schnell wieder zu finden und immer wieder sicher und ohne grossen Zeitverlust anwenden zu können. Dabei muss die Lerndokumentation der Quelle der Theorie angepasst werden.
 
-## Wichtige Dokumente
+## Input
+* Theorie
+* Übungen
+* Aufgaben
+* Lösungen (ganz wichtig)
+* Community/Gesprächspartner
+* Intranet
+
+## Output
+Als Output des Lernprozesses ergeben sich eine Menge Artefakte (Details dazu weiter unten), die in folgenden Dokumenten gesammelt werden
+
 ### Glossar
 Hier werden alle fachspezifischen Begriffe erklärt.
 
 ### Index
-Wir brauchen einen Index, damit wir Rezepte, die wir benötigen, rasch wieder finden.
+Wir brauchen einen Index, damit wir unsere Artefakte rasch wieder finden
 
 ### Namespaces
 Eine Liste aller Namespaces, für die Übersicht. Sonst passiert es leicht, dass wir für ein und denselben Namespace verschiedene Namen haben.
@@ -35,7 +45,7 @@ Wenn man z.B. so ein Protokoll in VS Code im md-Format schreibt, so kann man inn
 Eine Liste aller Artefakte, die geschaffen wurden. Artefakte sind: Glossar Einträge, Rezepte. Am besten ist es, wenn man Artefakte über einen Link erreicht. Das Tolle ist, dass GitHub in einem MD File jedes Kapitel über einen Link referenzieren kann. Sol lautet z.B. der Link zu diesem Kapitel https://github.com/oktagon2/my-pdfs/blob/master/lerndoku-schreiben.md#artefakte. Klickt man auf diesen Link oder gibt man die URL im Browser ein, so wird sofort dieses Kapitel angezeigt.
 
 ### Installationen
-Eine Lsite aller Produktio, die installiert wurden.
+Eine Lsite aller Produkte, die im Verlauf des Lernprozesses irgendwo installiert oder konfiguriert wurden.
 
 ### Backlog
 Eine Liste von Todos, die noch gemacht werden müssen.
@@ -54,3 +64,17 @@ Am optimalsten ist es, wenn die Theorie als PDF vorliegt, weil
 * Rezepte im Index aufnehmen. Bei Rezepten in PDFs gibt man neben dem Titel vom Rezept am besten
   *  entweder die Seite an, wo das Rezept gefunden werden kann
   *  oder noch besser ein Suchstring, mit welchem das Rezept im Dokument gefunden werden kann
+
+## Eigenes Rezept schreiben
+* Namespace identifizieren
+* Rezept identifizieren
+* Datei <namespace>-rezepte.md erstellen, falls es die Datei noch nicht gibt, in der Datei einen Titel (1x Gartenhag) "<namespace> Rezepte" hinzufügen
+* In dieser Datei das neue Rezept alphabetisch geordnet als Untertitel (2x Gartenhag) einfügen.
+* index.md nachführen
+
+## Index.md nachführen
+* Titel (1x Gartenhag) "Index"
+* Für jeden Buchstaben ein Untertitel (2x Gartenhag)
+* Für jedes Rezept eine Aufzählung mit Link zum Rezept
+
+
